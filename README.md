@@ -3,11 +3,11 @@
 # QUESTIONS
 ### All vehicles pay 15% tax
 ### RollerCoaster rides pay 20% tax
-> instantiate 4 types of vehicle objects - car, truck, bike, and rollercoater 
-> Create an array of vehicles to store your vehicle objects
-> Invoke the printVehicleNamesAndPrices to print names and prices of vehicles
-> Create an array of rideable objects to store your rideable rides and store only rideable objects inside
-> Invoke the getSpeedOfRideableObjects()
-> if no speed, give it a speed
-> invoke the totalBeforeTax on each object
-> Invoke the totalAfterTax on each object
+> instantiate 4 types of vehicle objects - car, truck, bike, and rollercoater.
+> Create an array of vehicles to store your vehicle objects.
+> Invoke the printVehicleNamesAndPrices to print names and prices of vehicles.
+> Create an array of rideable objects to store your rideable rides and store only rideable objects inside.
+> Invoke the getSpeedOfRideableObjects().
+> if no speed, give it a speed.
+> invoke the totalBeforeTax on each object.
+> Invoke the totalAfterTax on each object.
